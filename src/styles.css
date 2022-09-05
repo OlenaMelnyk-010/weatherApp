@@ -131,3 +131,16 @@ h2 {
     text-decoration: underline; 
     transition: all 200ms ease-in-out;
 }
+.footer {
+    text-align: center;
+    font-weight: bold;
+    display: block;
+    margin: 0 auto;
+    max-width: 800px;
+    width: 100%; 
+     padding-right: 15px;
+    padding-left: 15px; 
+    margin-right: auto;
+    margin-left: auto;  
+
+}
