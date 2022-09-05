@@ -86,4 +86,4 @@ function showGeolocatoinCity(event) {
 let geolacationElement = document.querySelector("#geolocationForm");
     geolacationElement.addEventListener("click", showGeolocatoinCity);
 
-  seachCity("Chernihiv");
+  //seachCity("Chernihiv");
